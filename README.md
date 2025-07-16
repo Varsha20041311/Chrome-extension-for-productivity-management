@@ -1,4 +1,4 @@
-# Chrome-extension-for-productivity-management
+# CHROME EXTENSION FOR PRODUCTIVITY MANAGEMENT
 
 *COMPANY* :CODTECH IT SOLUTIONS
 
